@@ -10,6 +10,9 @@ target/
 .idea/libraries/
 .idea/.gitignore
 .idea/aws.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
 .idea/encodings.xml
 *.iws
 *.iml
