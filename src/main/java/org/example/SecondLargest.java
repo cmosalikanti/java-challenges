@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class SecondLargest {
-    public static void main(String a[]) {
+    public static void main(String[] a) {
         new SecondLargest().findSecondLargest(Arrays.asList(1,2,3,4,5));
     }
 
