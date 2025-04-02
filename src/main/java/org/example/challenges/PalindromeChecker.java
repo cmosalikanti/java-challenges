@@ -1,4 +1,4 @@
-package org.example;
+package org.example.challenges;
 
 public class PalindromeChecker {
     public static void main(String[] args) {

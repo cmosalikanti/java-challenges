@@ -1,4 +1,4 @@
-package org.example;
+package org.example.challenges;
 
 public class LongestSubstring {
     public static void main(String[] args) {
