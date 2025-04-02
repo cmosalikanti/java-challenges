@@ -74,7 +74,7 @@ class Employee {
     }
 }
 
-public class GetEmployee {
+public class BuilderPatterExample {
     public static void main(String[] args) {
         Employee employee = new Employee.EmployeeBuilder()
                 .firstName("Barak")
